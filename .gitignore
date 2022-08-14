@@ -1,0 +1,6 @@
+config.py
+__pycache__
+.ipynb_checkpoints
+Resources/ratings.csv
+Resources/movies_metadata.csv
+Resources/wikipedia_movies.json
